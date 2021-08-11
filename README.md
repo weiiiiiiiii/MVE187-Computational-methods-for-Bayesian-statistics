@@ -1,5 +1,5 @@
 # MVE187-Computational-methods-for-Bayesian-statistics
 
-## Note:
+**Note:**
 
 All the solutions are self-solutions.
